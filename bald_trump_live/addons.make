@@ -1,0 +1,8 @@
+ofxAssimpModelLoader
+ofxBlackmagic
+ofxCv
+ofxFaceTracker
+ofxGui
+ofxOpenCv
+ofxSyphon
+ofxXmlSettings
