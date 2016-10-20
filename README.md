@@ -1,4 +1,4 @@
-# Samson
+# Samson*
 Bald Trump in realtime. Used to [baldstream](https://youtu.be/2Ft5JBWj_Ag?t=4814) the final 2016 presidential debate on October 19, 2016.
 
 ![debate](assets/debate.gif)
@@ -16,4 +16,8 @@ Functions:
 - blend Trump's face into the rendered model
 - output the video texture over syphon
 
-Many thanks to Golan Levin.
+![screenshot](assets/baldy.jpg)
+
+*Curious about the name "Samson"? It's after Samson, the Strong Man—a biblical figure who, if his hair were ever cut, would lose all his strength.
+
+Many thanks to Golan Levin and Thomas Hughes at the Studio for Creative Inquiry, Carnegie Mellon University.
